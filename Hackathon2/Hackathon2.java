@@ -1,3 +1,4 @@
+package Hackathon2;
 import java.util.Scanner;
 public class Hackathon2 {
     String AName;
